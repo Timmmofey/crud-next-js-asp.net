@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore.API",
+    "\\BookStore.API\\bin",
+    "\\BookStore.Core",
+    "\\BookStore.DataAccess"
+  ],
+  "SelectedNode": "\\BookStore.DataAccess\\BookStoreDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

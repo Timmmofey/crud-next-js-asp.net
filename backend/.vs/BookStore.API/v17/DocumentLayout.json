@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.api\\controllers\\contracts\\booksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\contracts\\booksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.api\\controllers\\contracts\\booksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\contracts\\booksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02428FC-ED10-4B65-B717-01DC6351D5E0}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.application\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02428FC-ED10-4B65-B717-01DC6351D5E0}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.dataaccess\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.core\\abstractions\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\abstractions\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.core\\abstractions\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\abstractions\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8C0301-5709-4F24-925E-5A221564E8CC}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.core\\bookstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2E5C041-9D24-4645-92E3-1368B38EDF52}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\bookstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02428FC-ED10-4B65-B717-01DC6351D5E0}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.application\\bookstore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C02428FC-ED10-4B65-B717-01DC6351D5E0}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\bookstore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.dataaccess\\migrations\\20240725004658_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20240725004658_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\garfield\\desktop\\bookstore\\backend\\bookstore.dataaccess\\migrations\\bookstoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977F70E4-3966-48E7-8238-CD644C49ACCC}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\bookstoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookStore.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\appsettings.Development.json",
+              "RelativeToolTip": "BookStore.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:17:42.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Program.cs",
+              "RelativeToolTip": "BookStore.API\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:07:12.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Controllers\\Contracts\\BooksRequest.cs",
+              "RelativeDocumentMoniker": "BookStore.API\\Controllers\\Contracts\\BooksRequest.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Controllers\\Contracts\\BooksRequest.cs",
+              "RelativeToolTip": "BookStore.API\\Controllers\\Contracts\\BooksRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:22:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Controllers\\Contracts\\BooksResponse.cs",
+              "RelativeDocumentMoniker": "BookStore.API\\Controllers\\Contracts\\BooksResponse.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Controllers\\Contracts\\BooksResponse.cs",
+              "RelativeToolTip": "BookStore.API\\Controllers\\Contracts\\BooksResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:22:17.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "BookStore.API\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\docker-compose.yml",
+              "RelativeToolTip": "BookStore.API\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-23T03:16:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\BookStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\BookStoreDbContext.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\BookStoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:40:31.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Application\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Application\\Services\\BooksService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\BooksService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:04:25.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Repositories\\BooksRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:53:37.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "RelativeToolTip": "BookStore.Core\\Abstractions\\IBooksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:07:37.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStore.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStore.API\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:02:54.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\Abstractions\\IBooksService.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Abstractions\\IBooksService.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\Abstractions\\IBooksService.cs",
+              "RelativeToolTip": "BookStore.Core\\Abstractions\\IBooksService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:07:38.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookStore.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "RelativeToolTip": "BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T14:12:54.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BookStore.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.API\\WeatherForecast.cs",
+              "RelativeToolTip": "BookStore.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:28:47.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\Models\\Book.cs",
+              "RelativeToolTip": "BookStore.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:07:52.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Entities\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:08:27.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookStore.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\BookStore.Core.csproj",
+              "RelativeDocumentMoniker": "BookStore.Core\\BookStore.Core.csproj",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Core\\BookStore.Core.csproj",
+              "RelativeToolTip": "BookStore.Core\\BookStore.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T13:26:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:08:12.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookStore.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Application\\BookStore.Application.csproj",
+              "RelativeDocumentMoniker": "BookStore.Application\\BookStore.Application.csproj",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.Application\\BookStore.Application.csproj",
+              "RelativeToolTip": "BookStore.Application\\BookStore.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T13:16:17.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240725004658_init.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Migrations\\20240725004658_init.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20240725004658_init.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Migrations\\20240725004658_init.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20240725004658_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:54:36.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookStoreDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Garfield\\Desktop\\BookStore\\backend\\BookStore.DataAccess\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\BookStoreDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:04:07.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
